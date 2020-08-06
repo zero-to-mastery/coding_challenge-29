@@ -21,17 +21,6 @@ Let's see what you can come up with! Some ideas:
 ## Submissions:
 At the end of the challenge, we will post everyone's projects down below so you can see what others have done. In order to see your submission below, make sure you read the next section for the submission guidelines (In *The Rules Are* section)!
 
-
-
-
-rockwell89#9364  
-Github Pages  
-https://rockwell89.github.io/Coding-Challenge-8/  
-
--------  
-aboozarmojdeh#9686  
-Github Repo  
-https://github.com/aboozarmojdeh/ZtoM-Coding_Challenge_6  
   
 -------  
 ctrant#1427  
